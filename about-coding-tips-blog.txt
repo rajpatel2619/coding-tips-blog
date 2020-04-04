@@ -1,0 +1,43 @@
+** its a simple coding-tips-blog where programmers
+can post the programming tips with their name and skills**
+
+----using-- MERN(Mongodb Express React Nodejs) stack--------
+
+
+**technologies used in this project are >>>
+
+1. mongodb atls and google cloud platform
+## for the document-based open source database (BSON-type)
+ purpose
+
+
+2.Express
+##a web application framework for Node.js
+
+3.React
+## a javascript library for the front-end
+
+4.Node.js
+## javascript run time envirenment for executing the
+javascript code outside the browser(such as server)
+
+5. Mongoose 
+## part of the mongodb for the schema-based solution to model
+application data
+
+
+
+@@@@@@@@@@ some building visulisation @@@@@@@@
+
+***we have two database collection
+1. this consist the programmer detail in which there will be
+  two field 
+	a.his/her name and 
+	b.email
+2. this consist the main home page coding tips table data in
+which there will be some details like
+	a.programmers message
+	b.programmers contact email
+	c.programmers name 
+	d.date when it was posted or lastly updated
+
