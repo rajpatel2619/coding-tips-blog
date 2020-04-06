@@ -1,4 +1,4 @@
-** its a simple coding-tips-blog where programmers
+ ** its a simple coding-tips-blog where programmers
 can post the programming tips with their name and skills**
 
 ----using-- MERN(Mongodb Express React Nodejs) stack--------
@@ -25,6 +25,17 @@ javascript code outside the browser(such as server)
 ## part of the mongodb for the schema-based solution to model
 application data
 
+(backend dependencies-express cors mongoose dotenv)
+
+6.cors
+##
+
+7. dotenv
+## stores the envirnment variables
+
+
+8.(react-routerdom react-bootstrap bootstrap techyons 
+font-awesome)
 
 
 @@@@@@@@@@ some building visulisation @@@@@@@@
